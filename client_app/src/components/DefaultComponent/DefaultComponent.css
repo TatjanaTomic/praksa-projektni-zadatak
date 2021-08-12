@@ -1,0 +1,26 @@
+.default-component {
+    background: url('../../images/background.jpg') no-repeat center center fixed;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    position: fixed;
+    background-size: cover;
+}
+
+.title {
+    color: lightgrey;
+    background: transparent;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align: left;
+}
+
+#title1 {
+    margin-top: 130px;
+    font-size: 55pt;
+}
+
+#title2 {
+    margin-top: 30px;
+    font-size: 45pt;
+}

@@ -1,0 +1,19 @@
+#measurement-title {
+    padding-top: 90px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    color: lightgray;
+    background: transparent;
+}
+
+.measurement-component {
+    background: url('../../images/background2.jpg') no-repeat center center fixed;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background-size: cover;
+}
+
+.measurement-holder {
+    padding: 15px;
+}

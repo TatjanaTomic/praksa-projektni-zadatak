@@ -1,0 +1,23 @@
+.measurement-item {
+    height: auto;    
+    width: 60%;
+    padding: 30px;
+    margin-top: 15px;
+    color: lightgray;
+    background-color: rgb(8, 55, 94, 0.85);
+    border-radius: 25px;
+}
+
+#link-chart {
+    color: lightskyblue;
+    font-size: 15pt;
+    float: right;
+}
+
+#link-wrapper {
+    padding: 15px;
+}
+
+a {
+    font-size: 20pt;
+}

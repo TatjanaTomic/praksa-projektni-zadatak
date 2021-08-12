@@ -1,0 +1,56 @@
+.devices-component {
+    background: url('../../images/background2.jpg') no-repeat center center fixed;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background-size: cover;
+}
+
+.devices-list {
+    height: 100%;
+    width: 50%;
+    overflow-x: hidden;
+    color: lightgray;
+    padding-top: 100px;
+    background-color: transparent;
+}
+
+#devices-title {
+    padding-bottom: 20px;
+    padding-left: 30px;
+    background: transparent;
+}
+
+.add-device {
+    height: auto;
+    width: 35%;
+    position: fixed;
+    top: 70px;
+    overflow-x: hidden;
+    right: 0;
+    padding: 25px;
+    margin-top: 50px;
+    margin-right: 25px;
+    color: lightgray;
+    background-color: rgb(8, 55, 94, 0.85);
+    border-radius: 25px;
+}
+
+#add-device-title {
+    padding: 10px;
+}
+
+#add-device-label {
+    padding: 10px;
+}
+
+#add-device-input {
+    float: right;
+    margin: 7px;
+}
+
+#add-device-button {
+    float: right;
+    margin: 7px;
+    margin-top: 25px;
+}

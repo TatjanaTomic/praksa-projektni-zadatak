@@ -1,0 +1,18 @@
+.chart-wrapper{
+    max-width: 60%;
+    margin-left: 50px;
+}
+
+.chart-device-title {
+    padding-top: 100px;
+}
+
+.chart-title {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+#chart-component {
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,18 @@
+.my-navbar {
+    background-color: #6bb7e3;
+    height: 70px;
+    width: 100%;
+    z-index: 1;
+}
+
+@media (min-width: 70px) {
+    .my-navbar {
+        position: fixed;
+    }
+}
+
+button {
+    background-color: #6bb7e3;
+    border-radius: 20px;
+    padding: 5px;
+}

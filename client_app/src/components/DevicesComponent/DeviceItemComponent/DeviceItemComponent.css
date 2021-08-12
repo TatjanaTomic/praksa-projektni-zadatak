@@ -1,0 +1,28 @@
+.device-item {
+    height: auto;
+    width: auto;
+    z-index: 1;
+    top: 70px;
+    overflow-x: hidden;
+    left: 0;
+    margin: 15px;
+    padding: 25px;
+    color: lightgray;
+    background-color: rgb(8, 55, 94, 0.85);
+    border-radius: 25px;
+}
+
+#device-item-label {
+    padding: 7px;
+    width: 200px;
+}
+
+#device-item-input {
+    width: 200px;
+    margin-left: 5px;
+}
+
+#device-item-button {
+    width: 55px;
+    float: right;
+}
